@@ -1,0 +1,12 @@
+.xxx-top{z-index: 9999;}
+.xxx-ele{position: fixed;left:0;}
+.xxx-btn{position: fixed;left:0;bottom: 0;height: 40px;
+	margin: 20px;
+}
+.xxx-textarea{
+	position: fixed;
+	top: 0;
+	left: 0;
+	width:100%;
+	height: 50px;
+}
